@@ -12,5 +12,23 @@ The following table is from the most recent analysis, where the math and reading
 
 ![Updated Metrics](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/school_result_updated.png)
 
+#### Top performing school(by % overall passing ) and Scores by school size:
+
+From the top 5 performing school data we can conclude that charter schools are performing well, because the size of the school is half compared to District school size.
+
+When you compare with the bottom performing school we can conclude the less performing schools are all District, and the school size is double compared to Charter school.
+
+So if the school size is large,the performance is low. If the school size is small the performance is good. This is proved by Scores by school size summary data.
+
+### Scores by school spending summary data:
+
+As per the Scores by school spending data, the school performance has no role in improving students score.
+
+#### Reading and Math score By grade data:
+
+As per this data all grades are performing well in Reading.
+But Math score is having the variations by schols.
+But each school math score is consistent through all grades(9th,10th, 11th and 12th)
+
 ## Summary
 The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
