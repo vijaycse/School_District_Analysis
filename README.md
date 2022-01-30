@@ -20,6 +20,8 @@ The following table is from the most recent analysis, where the math and reading
 
 From the top 5 performing school data we can conclude that charter schools are performing well, because the size of the school is half compared to District school size.
 
+![Top performing schools](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/student_results_top_performance_district.png)
+
 ![Scores by district type](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/student_result_by_district_type.png)
 
 ### Scores by school size :
@@ -50,4 +52,4 @@ Though few districts/charter schools are performing well, the bottom few distric
 ## Summary
 The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School. The removal of data implies a decrease in the count of total students overall, and total students at Thomas High School, specifically for this analysis. And since the population amount was decreased, this leads to a change in average scores and score percentages. Due to the fact that these score and percentage changes were minimal, we can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
 
-Charter schools performed better than public school districts in general.
+Charter schools performed better than public school districts in general that could very well be due to the size.
