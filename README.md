@@ -12,19 +12,26 @@ The following table is from the most recent analysis, where the math and reading
 
 ![Updated Metrics](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/school_result_updated.png)
 
-#### Top performing school(by % overall passing ) and Scores by school size:
+### Top performing school(by % overall passing ) :
 
 From the top 5 performing school data we can conclude that charter schools are performing well, because the size of the school is half compared to District school size.
 
+![Scores by district type](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/student_result_by_district_type.png)
+
+### Scores by school size :
 When you compare with the bottom performing school we can conclude the less performing schools are all District, and the school size is double compared to Charter school.
 
 So if the school size is large,the performance is low. If the school size is small the performance is good. This is proved by Scores by school size summary data.
+
+![Scores by school size](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/student_results_by_size.png)
 
 ### Scores by school spending summary data:
 
 As per the Scores by school spending data, the school performance has no role in improving students score.
 
-#### Reading and Math score By grade data:
+![Scores by school spending](https://github.com/vijaycse/School_District_Analysis/blob/master/Resources/student_results_by_spending.png)
+
+### Reading and Math score By grade data:
 
 As per this data all grades are performing well in Reading.
 But Math score is having the variations by schols.
